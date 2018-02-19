@@ -1,0 +1,7 @@
+setup.py
+meinwitz17/__init__.py
+meinwitz17.egg-info/PKG-INFO
+meinwitz17.egg-info/SOURCES.txt
+meinwitz17.egg-info/dependency_links.txt
+meinwitz17.egg-info/not-zip-safe
+meinwitz17.egg-info/top_level.txt
